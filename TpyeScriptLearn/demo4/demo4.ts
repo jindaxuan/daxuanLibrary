@@ -1,3 +1,4 @@
+// 接口
 interface Person {
 name:string;
 age?:number; // 代表可有可无
